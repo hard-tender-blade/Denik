@@ -1,0 +1,15 @@
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/bin/Debug/net7.0/Denik
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/bin/Debug/net7.0/Denik.deps.json
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/bin/Debug/net7.0/Denik.runtimeconfig.json
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/bin/Debug/net7.0/Denik.dll
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/bin/Debug/net7.0/Denik.pdb
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.csproj.AssemblyReference.cache
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.AssemblyInfoInputs.cache
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.AssemblyInfo.cs
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.csproj.CoreCompileInputs.cache
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.dll
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/refint/Denik.dll
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.pdb
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/Denik.genruntimeconfig.cache
+/Users/denismatsenko/Documents/GitHub/CSharp/Denik/obj/Debug/net7.0/ref/Denik.dll
