@@ -1,9 +1,9 @@
 
-public class Node<Record>
+public class Node
 {
     public Record Data { get; set; }
-    public Node<Record>? Next { get; set; }
-    public Node<Record>? Previous { get; set; }
+    public Node? Next { get; set; }
+    public Node? Previous { get; set; }
     public Node(Record data)
     {
         Data = data;
@@ -14,13 +14,13 @@ public class Node<Record>
 
 public class Diary
 {
-    private Node<Record>? current;
-    private Node<Record>? first;
-    private Node<Record>? last;
+    private Node? current;
+    private Node? first;
+    private Node? last;
 
     public void AddRecord(Record data)
     {
-        Node<Record> newNode = new Node<Record>(data);
+        Node newNode = new Node(data);
 
         if (first == null)
         {
@@ -131,7 +131,7 @@ public class Diary
 
     public void DisplayDiary()
     {
-        Node<Record>? current = first;
+        Node? current = first;
 
         while (current != null)
         {
